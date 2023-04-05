@@ -1,3 +1,3 @@
 # EXAMPLE
 
-<img src="images/screenshot.png" alt="screen shot of website">
+<img src="images/website.png" alt="screen shot of website">
